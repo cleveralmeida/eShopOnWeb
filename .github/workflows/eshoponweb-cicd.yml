@@ -9,7 +9,7 @@ env:
   LOCATION: westus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: e5ec7ad1-1bac-4fad-a5e7-0b16bc90ec62
-  WEBAPP-NAME: az400-webapp-cleverv3
+  WEBAPP-NAME: az400-webapp-cleverv4
 
 jobs:
   #Build, test and publish .net web project in repository
