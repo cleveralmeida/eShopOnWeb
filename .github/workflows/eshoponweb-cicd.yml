@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: e5ec7ad1-1bac-4fad-a5e7-0b16bc90ec62
   WEBAPP-NAME: az400-webapp-clever
 
-e5ec7ad1-1bac-4fad-a5e7-0b16bc90ec62
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
