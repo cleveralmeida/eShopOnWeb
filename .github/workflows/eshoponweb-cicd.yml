@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-clever
   LOCATION: westus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: e5ec7ad1-1bac-4fad-a5e7-0b16bc90ec62
+  SUBSCRIPTION-ID: 96dca13a-afe2-4ca8-a977-76e6ab8721a2
   WEBAPP-NAME: az400-webapp-cleverv4
 
 jobs:
